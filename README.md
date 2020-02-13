@@ -1,4 +1,4 @@
-# Ruby Objects Has Many Lab
+ undefined method `all' for Song:Class# Ruby Objects Has Many Lab
 
 ## Objectives
 
